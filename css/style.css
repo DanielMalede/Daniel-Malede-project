@@ -59,7 +59,7 @@ a::content{
 a:link { 
     text-align: center;
     font-size: 30px;
-    color:rgb(0, 0, 0);
+    color:rgb(54, 141, 216);
     
 }
 a:hover{
@@ -71,6 +71,10 @@ a:active{
 address {
     text-align: right;
     color:rgb(255, 255, 255);
+    text-align: left;
+    border-style:groove;
+    
+    ;
 }
 #img {
     border: 5px blue;
